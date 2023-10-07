@@ -52,8 +52,8 @@ print(list)
 del(list)
 print(list)
 #clear elements using
-list.clear()
-print(list)
+#list.clear()
+#print(list)
 #using sort elements it uses to put in its's order ascending order
 list1 = ["a", "z", "hi", "hello", "apple", "abble", "b", "c", "d", "e", "f"]
 list2 = [1, 100, 0, 1000, 2, 3, 4, 5 , 6, 7]

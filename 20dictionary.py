@@ -27,5 +27,5 @@ print(fullname)
 fullname.clear()
 print(fullname)
 #delete function
-del fullname
-print(fullname)
+#del fullname
+#print(fullname)

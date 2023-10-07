@@ -22,9 +22,12 @@ print(name.lower())
 
 name2="parshv gandhi"
 name3=name2.split("a")
-hello=name2.replace("par","hello")
+hello=name2.replace("par","   hello   ")
 print(name3)
 print(hello)
+removespace = "        hi        "
+print(len(removespace))
+print(len(removespace.strip()))
 hi=hello.strip()
 print("my name is", hi)
 name4="parshv"

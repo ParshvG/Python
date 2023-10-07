@@ -13,7 +13,7 @@ while i > 0:
     if i == 2:
         continue
     print(i)
-# pass mean nothing 
+#pass mean nothing 
 i = 10
 while i > 0:
     i = i - 1
